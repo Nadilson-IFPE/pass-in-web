@@ -1,3 +1,15 @@
+# Projeto do evento NLW Unite, oferecido pela Rocketseat: 
+
+## https://www.rocketseat.com.br/eventos/nlw
+
+# NLW Unite event project, offered by Rocketseat: 
+
+## https://www.rocketseat.com.br/eventos/nlw
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
